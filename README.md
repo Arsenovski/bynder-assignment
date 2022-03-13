@@ -2,12 +2,12 @@
 
 \*\*Version 1.0.0
 
-## This repo consists of example of a suite of test cases regarding Login and Support forms according to UI Testing Assignment Task. It also consists of suite of API tests according to API Testing Assignment from the corresponding pdf file.
+This repo consists of example of a suite of test cases regarding Login and Support forms according to UI Testing Assignment Task. It also consists of suite of API tests according to API Testing Assignment from the corresponding pdf file.
 
 ## :gear: Setup
 
-1.git clone https://github.com/Arsenovski/bynder-assignment.git
-2.run npm install
+1. 'git clone https://github.com/Arsenovski/bynder-assignment.git'
+2. run 'npm install'
 
 ---
 
