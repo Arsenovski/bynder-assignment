@@ -1,0 +1,19 @@
+{
+  "------------------- Bynder ------------------": "",
+  "inputEmail": "#inputEmail",
+  "inputPassword": "#inputPassword",
+  "loginButton": "button[class='login-btn action-btn blue block']",
+  "profileIcon": "a[class='admin-dropdown profile']",
+  "logOutButton": "button[class='action-btn block blue']",
+  "messageBox": "p[class='cbox_messagebox']",
+  "supportName": "input[name='name']",
+  "supportEmail": "input[name='email']",
+  "supportMessage": "#custom-support-form-message-textarea",
+  "supportButton": "#custom-support-form-button",
+  "label": "#custom-support-form-subject-select",
+  "------------------- TMDB ------------------": "", 
+  "approveButton": "#allow_authentication",
+  "tmdbUsername": "#username",
+  "tmdbPassword": "#password",
+  "tmdbLoginButton": "#login_button"
+}

@@ -1,0 +1,10 @@
+{
+  "credentials": {
+    "username": "andrejarsenovski",
+    "password": "TestPassword123"
+  },
+  "rating": {
+    "movieId": "278",
+    "value": 10
+  }
+}

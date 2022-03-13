@@ -1,0 +1,17 @@
+{
+  "testFiles": "**/*.spec.js",
+  "env": {
+    "bynderUrl": "https://wave-trial.getbynder.com/trial",
+    "tmdbUrl": "https://www.themoviedb.org",
+    "apiKey": "502298ea7c6711c489643484ddaab53b",
+    "apiUrl": "https://api.themoviedb.org/3",
+    "token": ""
+  },
+  "reporter": "junit",
+  "reporterOptions": {
+    "mochaFile": "cypress/results/results-[hash].xml",
+    "toConsole": true
+  },
+  "chromeWebSecurity": false,
+  "defaultCommandTimeout": 30000
+}

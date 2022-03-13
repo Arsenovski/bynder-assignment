@@ -1,0 +1,19 @@
+{
+  "validCredentials": {
+    "userName": "andrejarsenovski@protonmail.com",
+    "password": "Holandija2022"
+  },
+  "invalidCredentials": {
+    "userName": "RandomInvalid@Username.com",
+    "password": "RandomInvalidPassword"
+  },
+  "routes": {
+    "login": "/login",
+    "dashboard": "/account/dashboard/",
+    "verify": "/verify"
+  },
+  "messages": {
+    "invalidCredentials": "You have entered an incorrect username or password.",
+    "securityCheck": "For security reasons"
+  }
+}

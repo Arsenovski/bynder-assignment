@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="22.0470" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-03-13T21:24:33" tests="0" file="cypress/integration/ui-testsuite/01.UI_authentication.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="01. [UI] Bynder Authentication" timestamp="2022-03-13T21:24:33" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="[01a] UI Bynder - Authentication - login and logout" timestamp="2022-03-13T21:24:38" tests="2" time="22.0470" failures="0">
+    <testcase name="01. [UI] Bynder Authentication [01a] UI Bynder - Authentication - login and logout [1a.1] Successful login and logout" time="18.6870" classname="[1a.1] Successful login and logout">
+    </testcase>
+    <testcase name="01. [UI] Bynder Authentication [01a] UI Bynder - Authentication - login and logout [1a.2] Unsuccessful login - invalid credentials" time="3.3600" classname="[1a.2] Unsuccessful login - invalid credentials">
+    </testcase>
+  </testsuite>
+</testsuites>

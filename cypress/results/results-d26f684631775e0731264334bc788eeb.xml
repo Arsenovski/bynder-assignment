@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="6.6580" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-03-13T21:24:08" tests="0" file="cypress/integration/api-testsuite/01.API_movies.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="01. [API] TMDB - Movies" timestamp="2022-03-13T21:24:08" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="[01a] API TMDB - Get top rated movies" timestamp="2022-03-13T21:24:08" tests="1" time="0.4090" failures="0">
+    <testcase name="01. [API] TMDB - Movies [01a] API TMDB - Get top rated movies [1a.1] Request to get all top rated movies" time="0.4090" classname="[1a.1] Request to get all top rated movies">
+    </testcase>
+  </testsuite>
+  <testsuite name="[01b] API TMDB - Submit movie rating" timestamp="2022-03-13T21:24:08" tests="1" time="6.2490" failures="0">
+    <testcase name="01. [API] TMDB - Movies [01b] API TMDB - Submit movie rating [1b.1] Start a session and rate a movie" time="6.2490" classname="[1b.1] Start a session and rate a movie">
+    </testcase>
+  </testsuite>
+</testsuites>

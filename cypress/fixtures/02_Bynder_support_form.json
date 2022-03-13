@@ -1,0 +1,11 @@
+{
+  "userInformation": {
+    "name": "Andrej",
+    "email": "andrejarsenovski@protonmail.com"
+  },
+  "supportContent": {
+    "labelGeneral": "I have a question (General)",
+    "labelTechnical": "I want to report a technical issue",
+    "message": "I need support."
+  }
+}

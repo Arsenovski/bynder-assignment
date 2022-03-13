@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="16.0520" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-03-13T21:28:54" tests="0" file="cypress/integration/ui-testsuite/02.UI_support.spec.js" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="02. [UI] Support form" timestamp="2022-03-13T21:28:54" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Populate Support form" timestamp="2022-03-13T21:28:57" tests="2" time="16.0520" failures="0">
+    <testcase name="02. [UI] Support form Populate Support form [2a.1] Populate Support form with general question" time="10.9430" classname="[2a.1] Populate Support form with general question">
+    </testcase>
+    <testcase name="02. [UI] Support form Populate Support form [2a.2] Populate Support form with technical issue" time="5.1090" classname="[2a.2] Populate Support form with technical issue">
+    </testcase>
+  </testsuite>
+</testsuites>
